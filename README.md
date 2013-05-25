@@ -11,7 +11,7 @@ Usage
 ----
 first to make sure to install tmux
 
-the git the tmux.conf to your home for special user or to /etc/tmux.conf for global all the user relative
+then git the tmux.conf to your home for special user or to /etc/tmux.conf for global all the user relative
 
 step by  step
 ----
@@ -23,13 +23,9 @@ git pull
 
 cp tmux.conf ~/.tmux.conf
 
-
-
 Notable Issues
 -------
 vim in tmux line number
-
-
 
 License
 -------
