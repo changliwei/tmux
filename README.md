@@ -24,10 +24,11 @@ git pull
 cp tmux.conf ~/.tmux.conf
 
 
-----
+
 Notable Issues
+-------
 vim in tmux line number
-----
+
 
 
 License
